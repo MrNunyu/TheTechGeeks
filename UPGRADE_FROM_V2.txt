@@ -1,0 +1,21 @@
+THE TECH GEEKS / V3 DESIGN UPDATE
+
+OPTION A: KEEP THE CONTENT YOU HAVE ALREADY IMPORTED
+1. Keep your V2 project folder.
+2. Open this V3 ZIP, then copy ONLY style.css into your existing V2 website folder.
+3. Accept the replacement of style.css.
+4. Refresh your browser with Ctrl+F5.
+This leaves all of the assessment text and original pictures in your existing files untouched.
+
+OPTION B: MAKE A COMPLETELY NEW V3 WEBSITE FOLDER
+1. Extract this ZIP into a folder of your choice.
+2. Run BUILD_WEBSITE.bat once with internet access to import the original Google Sites text and pictures.
+3. Double-click index.html to open the finished site.
+
+The V3 visual fix corrects Google Sites inline transparent paragraph backgrounds
+that made some original black text hard to read against dark cards.
+The website's original wording, images, and text emphasis are not rewritten.
+The old Digital Communications homepage section remains excluded.
+
+
+V5 update: the floating 1s and 0s now also shift as you scroll, creating a subtle parallax effect across the website.
